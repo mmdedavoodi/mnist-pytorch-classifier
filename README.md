@@ -1,9 +1,3 @@
-Understood.
-Since you are **only uploading your `.ipynb` notebook** and **not** turning it into a full codebase, the README must match that reality — but still look professional, intentional, and not like a random Colab dump.
-
-Here is the corrected, high-level, polished **README.md** specifically for a repository that contains a *notebook-only MNIST project*.
-
----
 
 # **MNIST PyTorch Classifier — Jupyter Notebook Implementation**
 
@@ -109,13 +103,4 @@ The implementation focuses on clarity rather than maximizing accuracy.
 
 This project is licensed under the **MIT License**, allowing unrestricted use, modification, and distribution.
 
----
 
-If you want, I can also rewrite your notebook itself to make it:
-
-* cleaner
-* more modular
-* more professional
-* easier to read and maintain
-
-Just say the word.
